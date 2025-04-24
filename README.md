@@ -54,3 +54,9 @@ Getting the Result
 •	Make sure to input all parts of your calculation (e.g., both numbers and the operator) before hitting equals.
 •	If the results are not what you expect, double-check the numbers and operations you've entered.
 
+
+![image](https://github.com/user-attachments/assets/4ac85329-d108-4a1e-a0c6-4676b48665ff)
+
+![image](https://github.com/user-attachments/assets/e05fdc7c-a7a8-4bb3-a88c-2c71868884a8)
+
+
